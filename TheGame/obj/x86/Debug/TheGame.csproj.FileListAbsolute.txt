@@ -1,0 +1,90 @@
+D:\prog\TheGame\TheGame\TheGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\prog\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+D:\prog\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+D:\prog\TheGame\TheGame\TheGame\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\prog\TheGame\TheGame\TheGame\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\TheGame.exe
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\TheGame.pdb
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\OpenTK.dll
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\OpenTK.GLControl.dll
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\Tao.FreeGlut.dll
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\Tao.OpenGl.dll
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\Tao.Platform.Windows.dll
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\OpenTK.pdb
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\OpenTK.xml
+D:\prog\TheGame\TheGame\TheGame\bin\Debug\OpenTK.GLControl.xml
+D:\prog\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+D:\prog\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+E:\шарпы\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+E:\шарпы\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+E:\шарпы\TheGame\TheGame\TheGame\bin\Debug\TheGame.exe
+E:\шарпы\TheGame\TheGame\TheGame\bin\Debug\TheGame.pdb
+E:\шарпы\TheGame\TheGame\TheGame\bin\Debug\Tao.FreeGlut.dll
+E:\шарпы\TheGame\TheGame\TheGame\bin\Debug\Tao.OpenGl.dll
+E:\шарпы\TheGame\TheGame\TheGame\bin\Debug\Tao.Platform.Windows.dll
+E:\шарпы\TheGame\TheGame\TheGame\bin\Debug\OpenTK.pdb
+E:\шарпы\TheGame\TheGame\TheGame\bin\Debug\OpenTK.xml
+E:\шарпы\TheGame\TheGame\TheGame\bin\Debug\OpenTK.GLControl.xml
+E:\шарпы\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.csprojResolveAssemblyReference.cache
+E:\шарпы\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+E:\шарпы\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+E:\шарпы\TheGame\TheGame\TheGame\obj\x86\Debug\TheGame.csproj.GenerateResource.Cache
+D:\proganie\c#\TheGame1\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+D:\proganie\c#\TheGame1\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\TheGame.exe
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\TheGame.pdb
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\OpenTK.dll
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\OpenTK.GLControl.dll
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\Tao.FreeGlut.dll
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\Tao.OpenGl.dll
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\Tao.Platform.Windows.dll
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\OpenTK.pdb
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\OpenTK.xml
+D:\proganie\c#\TheGame1\TheGame\TheGame\bin\Debug\OpenTK.GLControl.xml
+D:\proganie\c#\TheGame1\TheGame\TheGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\proganie\c#\TheGame1\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+D:\proganie\c#\TheGame1\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+D:\proganie\c#\TheGame1\TheGame\TheGame\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\proganie\c#\TheGame1\TheGame\TheGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\1\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\OpenTK.dll
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\OpenTK.GLControl.dll
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\OpenTK.pdb
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\OpenTK.xml
+C:\Users\1\Desktop\TheGame\TheGame\bin\Debug\OpenTK.GLControl.xml
+C:\Users\1\Desktop\TheGame\TheGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\1\Desktop\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\1\Desktop\TheGame\TheGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1\Desktop\TheGame\TheGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\bin\Debug\Tao.OpenGl.dll
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\bin\Debug\OpenTK.pdb
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\bin\Debug\OpenTK.xml
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\obj\x86\Debug\TheGame.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\Aleksandr\Downloads\Новая папка\TheGame\TheGame\obj\x86\Debug\TheGame.csproj.GenerateResource.Cache
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\obj\x86\Debug\TheGame.exe
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\obj\x86\Debug\TheGame.pdb
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\bin\Debug\TheGame.exe
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\bin\Debug\TheGame.pdb
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\bin\Debug\Tao.OpenGl.dll
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\bin\Debug\OpenTK.xml
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\obj\x86\Debug\TheGame.Form1.resources
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\obj\x86\Debug\TheGame.Properties.Resources.resources
+C:\Users\Aleksandr\Downloads\C_Sharp\TheGame\TheGame\obj\x86\Debug\TheGame.csproj.GenerateResource.Cache
